@@ -24,6 +24,10 @@
     {% assign filtered_repos = excluded_repos | sort: sort_order | reverse %}
   {% endif %}
 
+  <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+    {% include repo-card-exceldna.html %}
+  </div>
+
   {% for repository in filtered_repos | limit: site.projects.limit %}
     <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
       {% include repo-card.html %}
