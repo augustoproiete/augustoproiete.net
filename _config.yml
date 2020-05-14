@@ -29,10 +29,10 @@ projects:
     # - repo-name
 
 social_media:
-  keybase: augustoproiete
+  twitter: augustoproiete
   linkedin: augustoproiete
   stackoverflow: 211672
-  twitter: augustoproiete
+  keybase: augustoproiete
 
 topics:
   - name: CSS
