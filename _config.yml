@@ -18,15 +18,15 @@ defaults:
 
 projects:
   sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
   limit: 9
   exclude:
     archived: true
     forks: true
     projects:
-    # - repo-name
+      - ookii-dialogs-winforms
+      - DevExpress-NuGet
+      - exceldna-addin-abstractions
+      - serilog-enrichers-exceldna
 
 social_media:
   twitter: augustoproiete
