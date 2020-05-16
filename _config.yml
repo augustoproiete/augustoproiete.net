@@ -8,6 +8,9 @@ plugins:
 
 permalink: /:categories/:title/
 
+exclude:
+  - README.md
+
 defaults:
   -
     scope:
