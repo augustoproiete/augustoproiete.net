@@ -1,3 +1,10 @@
+title: "C. Augusto Proiete"
+description: "Hi, my name is Augusto. This is my personal website and blog where I share my experiences."
+
+author:
+  picture: /img/augustoproiete.png
+  twitter: augustoproiete
+
 layout: sidebar
 style: light
 
@@ -5,6 +12,7 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-feed
   - jekyll-sitemap
 
 permalink: /:categories/:title/
