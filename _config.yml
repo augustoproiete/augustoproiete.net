@@ -5,6 +5,7 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-sitemap
 
 permalink: /:categories/:title/
 
@@ -18,6 +19,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "google0dfe9728f2b23a92.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "**/*.pdf"
+    values:
+      sitemap: false
 
 projects:
   sort_by: stars
