@@ -40,7 +40,7 @@ defaults:
 
 projects:
   sort_by: stars
-  limit: 8
+  limit: 6
   exclude:
     archived: true
     forks: true
