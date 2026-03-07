@@ -1,9 +1,9 @@
-title: "C. Augusto Proiete"
+title: "Augusto Proiete"
 description: "Hi, my name is Augusto. This is my personal website and blog where I share my experiences."
 
 author:
   picture: /img/augustoproiete.png
-  twitter: augustoproiete
+  x: augustoproiete
 
 layout: sidebar
 style: light
@@ -51,10 +51,10 @@ projects:
       - serilog-enrichers-exceldna
 
 social_media:
-  twitter: augustoproiete
+  x: augustoproiete
   linkedin: augustoproiete
   stackoverflow: 211672
-  dotnet-foundation: community/speakers/augustoproiete
+  dotnet-foundation: community/bio/c-augusto-proiete
   keybase: augustoproiete
 
 topics:
