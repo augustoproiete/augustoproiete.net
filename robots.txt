@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Wayback
+Disallow: /
+
+User-agent: WaybackArchive.org
+Disallow: /
+
+User-agent: ArchiveTeam ArchiveBot
+Disallow: /
+
+User-agent: heritrix
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Nicecrawler
+Disallow: /
+
+Sitemap: https://augustoproiete.net/sitemap.xml
